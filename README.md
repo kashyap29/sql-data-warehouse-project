@@ -3,7 +3,7 @@
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 This project demonstrates the end-to-end journey of building a modern data warehouse and delivering actionable insights through analytics. It is designed as a portfolio project to showcase industry best practices in Data Engineering, Data Modeling, and Analytics.
 
-🏗️ Data Architecture
+🏗️**Data Architecture**
 
 This project follows the Medallion Architecture (Bronze, Silver, Gold) for structured and scalable data processing:
 
@@ -15,7 +15,7 @@ Silver Layer – Data cleansing, standardization, and normalization for consiste
 
 Gold Layer – Business-ready Star Schema models designed for reporting and analytics.
 
-📖 Project Overview
+📖 **Project Overview** 
 
 This project covers the full lifecycle of a data warehouse:
 
@@ -27,7 +27,7 @@ Data Modeling → Building Fact & Dimension tables optimized for analytics.
 
 Analytics & Reporting → Writing SQL-based reports and building dashboards to generate business insights.
 
-🎯 Learning Outcomes
+🎯**Learning Outcomes**
 
 By working on this project, you will gain hands-on experience in:
 
@@ -43,7 +43,7 @@ By working on this project, you will gain hands-on experience in:
 
 ✅ Data Architecture – implementing Medallion Architecture for scalable DWH design.
 
-🛠️ Tools & Resources
+🛠️**Tools & Resources**
 
 Everything in this project is free and open-source 💡
 
@@ -59,8 +59,8 @@ DrawIO → Data architecture & model diagrams.
 
 Notion → Project management and step-by-step task tracking.
 
-🚀 Project Requirements
-🔹 Phase 1: Data Engineering (Data Warehouse)
+**🚀 Project Requirements**
+**🔹 Phase 1: Data Engineering (Data Warehouse)**
 
 Objective → Build a modern data warehouse to consolidate sales data.
 
@@ -72,7 +72,7 @@ Integrate sources into a single, user-friendly star schema model.
 
 Provide clear documentation of the data model.
 
-🔹 Phase 2: Data Analytics (BI & Insights)
+**🔹 Phase 2: Data Analytics (BI & Insights)**
 
 Objective → Deliver actionable insights for stakeholders.
 
@@ -82,7 +82,7 @@ Product Performance → Bestsellers, underperforming products, and profitability
 
 Sales Trends → Seasonal demand, revenue growth, and forecasting.
 
-📂 Repository Structure
+**📂 Repository Structure**
 ├── data/                # Source CSV datasets (ERP & CRM)
 ├── sql/                 # ETL scripts and DWH SQL code
 ├── models/              # Data modeling scripts (fact/dim tables)
@@ -90,11 +90,11 @@ Sales Trends → Seasonal demand, revenue growth, and forecasting.
 ├── docs/                # Documentation & requirements
 └── README.md            # Project overview
 
-📖 Documentation
+**📖 Documentation**
 
 For detailed requirements and step-by-step execution → docs/requirements.md
 
-🌟 Why This Project Matters
+**🌟 Why This Project Matters**
 
 This project mirrors real-world data engineering & analytics workflows used in companies.
 It demonstrates your ability to:
